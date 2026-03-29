@@ -37,11 +37,11 @@
 -CSV Files
 
 # 📊 Project Insights
-Identified top-selling books and genres based on order data
-Analyzed customer purchasing behavior and high-value customers
-Calculated total revenue and sales performance
-Evaluated inventory levels and remaining stock after orders
-Derived insights using aggregate functions and relational queries
+- Identified top-selling books and genres based on order data
+- Analyzed customer purchasing behavior and high-value customers
+- Calculated total revenue and sales performance
+- Evaluated inventory levels and remaining stock after orders
+- Derived insights using aggregate functions and relational queries
 
 # ✅ Final Conclusion
 
