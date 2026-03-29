@@ -33,8 +33,8 @@
 - Calculate the stock remaining after fulfilling all orders
 
 # Tools Used
--PostgreSQL
--CSV Files
+- PostgreSQL
+- CSV Files
 
 # 📊 Project Insights
 - Identified top-selling books and genres based on order data
