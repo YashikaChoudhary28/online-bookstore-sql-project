@@ -5,7 +5,7 @@
 
 # Dataset Used
 <a href="https://github.com/YashikaChoudhary28/online-bookstore-sql-project/blob/main/Books.csv">Dataset1</a>
-<<a href="">Dataset1</a>
-<a href="">Dataset1</a>
+<<a href="https://github.com/YashikaChoudhary28/online-bookstore-sql-project/blob/main/Customers.csv">Dataset2</a>
+<a href="">Dataset3</a>
 
 
